@@ -1,0 +1,10 @@
+company1 6.99 10 Y
+company2 5.99 3 N
+company3 10.99 5 Y
+company4 2.00 30 Y
+company5 7.99 40 N
+company6 3.99 20 Y
+company7 1.99 17 N
+hfghf 3.0 5 N
+
+test 5.0 3 N

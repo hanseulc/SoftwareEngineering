@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+
+<AnchorPane prefHeight="72.0" prefWidth="178.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Project.NotificationController">
+   <children>
+      <Pane prefHeight="152.0" prefWidth="203.0">
+         <children>
+            <Label layoutX="12.0" layoutY="2.0" prefHeight="39.0" prefWidth="180.0" text="The end date entered was before" />
+            <Label layoutX="12.0" layoutY="34.0" prefHeight="17.0" prefWidth="171.0" text="todays date. Therefore, the" />
+            <Label layoutX="12.0" layoutY="53.0" text="the membership been added to" />
+            <Label layoutX="12.0" layoutY="70.0" text="user history." />
+            <Button fx:id="okButton" layoutX="72.0" layoutY="104.0" mnemonicParsing="false" onMouseClicked="#okButtonClicked" prefHeight="25.0" prefWidth="55.0" text="ok" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

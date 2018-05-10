@@ -1,0 +1,3 @@
+company6 3.99 Fixed 2018-03-05 Expired 2018-03-21
+company4 2.0 Fixed 2018-03-06 Expired 2018-03-23
+company3 10.99 Recurring:_Annual 2018-03-14 Active
