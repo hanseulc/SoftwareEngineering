@@ -1,8 +1,9 @@
 # SoftwareEngineering
+<br />
 QMUL Software Engineering Year 2 Group Project
-
-Front End (Scenebuilder, JavaFXML): Hanseul Cho
-Design: Hanseul Cho
-Back End: Robert Porter and Hanseul Cho
-
-March 24, 2018. 
+<br />
+<br /> Front End (Scenebuilder, JavaFXML): Hanseul Cho
+<br /> Design: Hanseul Cho
+<br /> Back End: Robert Porter and Hanseul Cho
+<br />
+<br /> March 24, 2018. 
